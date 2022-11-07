@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "antd": "^4.23.6",
+    "axios": "^0.27.2",
+    "sweetalert2": "^11.4.32",
+    "tablednd": "^1.0.5"
+  }
+}
